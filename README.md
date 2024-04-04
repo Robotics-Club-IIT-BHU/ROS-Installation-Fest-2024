@@ -38,6 +38,9 @@ The Robotics Club is your gateway to the exciting world of ROS!  We'll help you:
 * **Participate in competitions and showcase your skills:** This fest will be your induction to the Robotics Summer Camp, where you will be given exciting tasks and evaluated on the same, eventually opening a path for you to join the Robotics Club!
 ![ROS](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/ad8bf702-7873-4ddf-bda8-6c1236b5610a)
 
+**Instructions to follow for ROS Fest:**
+1. Carry a Pendrive with you. (Recommend 8GB)
+2. Have Disk Space Available (Recommend 150 GB)
 
 **So, what are you waiting for?** Participate in the ROS Installation Fest and unlock the potential of ROS!  Together, we can build robots that will change the world! 
 
