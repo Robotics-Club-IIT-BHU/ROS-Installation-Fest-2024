@@ -1,5 +1,5 @@
 
-![ROS](![image](https://github.com/Robotics-Club-IIT-BHU/ROS-Installation-Fest-2024/assets/100301165/7750eaf8-e55d-4442-8dc0-098dad441820))
+![ROS](https://github.com/Robotics-Club-IIT-BHU/ROS-Installation-Fest-2024/assets/100301165/7750eaf8-e55d-4442-8dc0-098dad441820)
 ## Welcome to the Wonderful World of ROS!  **(Robot Operating System)** ✨
 
 **Ever dreamed of building robots that can:**
